@@ -1,0 +1,29 @@
+/* Center Fixed Width Body */
+
+html {
+  background-color: rgb(255, 255, 216);
+}
+
+h2 {
+  background-color: pink;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  background-color: pink;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  background-color: lightgoldenrodyellow;
+  width: 500px;
+  margin: 30px auto;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+hr {
+  background-color: lightgray;
+}
